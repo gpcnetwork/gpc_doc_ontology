@@ -1,0 +1,33 @@
+{
+    "LOGGER_NAME": "doc_ontology",
+    "LOGGER_FOLDER": null,
+    "INPUT_FOLDER": null,
+    "OUTPUT_FOLDER": null,
+    "USE_INCLUSIONS": false,
+    "USE_EXCLUSIONS": false,
+    "USE_SYNONYMS": false,
+    "CPUS": -1,
+    "INPUT_FILE": "gpc_v8_100k.csv",
+    "LOINC_SOURCE": "DocumentOntology_original.csv",
+    "LOINC_NAMES": "ComponentHierarchyBySystem.csv",
+    "SYNONYMS_FILE": "synonyms.csv",
+    "APPENDED_FILENAME": "LOINC_MAPPINGS",
+    "COUNT_COLUMN": "Counts",
+    "EXLUDED_COLUMNS": [
+        "Counts"
+    ],
+    "INCLUDED_COLUMNS": [
+        "role",
+        "subjectmatterdomain",
+        "service",
+        "setting",
+        "doctype"
+    ],
+    "HASH_COLUMNS": [
+        "role",
+        "subjectmatterdomain",
+        "service",
+        "setting",
+        "doctype"
+    ]
+}

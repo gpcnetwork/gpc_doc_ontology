@@ -1,0 +1,170 @@
+additional info,note
+allergy,immunology
+anesthesia,anesthesiology
+assessment,evaluation note
+attending,physician
+authorizations,form
+behavior,behavioral
+blood donation,hospital
+bones,bone
+born,birthing
+burns,burn
+cancer,oncology
+cardiology,cardiovascular
+cardiothoracic,cardiovascular cardiac
+care coordination,hospital management care note
+case management, care management
+chiropractic,chiropractor
+clerical,interdisciplinary
+collaborating,social worker
+complex case management,intensive care unit
+consents,consent
+consult,consultation
+course/history,history physical note
+current dressing changes,wound care note
+depart,discharge
+diabetes,diabetology
+diabetic,diabetology
+did not keep appointment documentation,administrative note management
+dietitian,dietitics
+disease,diseases
+disorder,disorders
+documentation,report
+education,instructions
+electrocardiogram - adult,cardiovascular note
+emergency,department
+encounter,encounters
+encounters,encounter
+endocrine,diabetology
+finger,fingers
+fracture,fractures
+general message,note
+genetics,medical developmental-behavioral
+geriatrics,geriatric medicine
+gyn,obstetrics and gynecology
+hands,hand
+healthy,health
+inpatient,hospital
+interventions,intervention
+issues,issue
+joint,joints
+lactation,pediatrics
+medication management,note
+medications,medication
+narrative,summary note
+neonatology,pediatrics
+neur,neuro
+neurosurgery,neurological surgery
+non-admit,outpatient
+notes,note
+nurses,nurse
+nursing ,nurse
+nursing,nurse
+nutrition,dietetics
+obgyn, obstetrics and gynecology
+obstetric,obstetrics
+opthalmology,optometry
+osteoporosis,rheumatology
+ostomy,ostomy
+palliative,medicine
+pat ,patient
+pediatric,pediatrics
+pediatrics,pediatric
+perinatology,obstetrics and gynecology
+perioperative,surgery
+phone msg,telephone encounter note
+physical exam, note
+physician, attending
+plan multidisciplinary, care management note
+plans,plan
+polysomnography,sleep medicine
+portal message documentation,letter note
+prescription,list
+procedural,procedure
+provider,physician
+pulmonology,pulmonary
+quality assurance,healthcare navigator
+questionnaire, evaluation note
+reconstructive,plastic surgery
+reports,report
+request,office
+research,hospital
+review of systems, evaluation note
+sameday medicine,pharmacy
+screening,risk assessment evaluation note
+servey,survey
+specialty,specialist
+speech,language
+summary,note
+system,technician
+techbill,office
+telephone encounter,phone note
+text, note
+therapeuric,therapeutic
+transport,ambulance
+urgent,center
+urogynecology, obstetrics and gynecology
+virtual,telehealth
+visitor management,case manager
+wells,well
+worker,workers
+wound,wound
+x-ray,radiology diagnostic study note
+xr diagnostic x-ray miscellaneous hx,note
+xr,radiology diagnostic study note
+ aandp ,evaluation and plan note
+ admission ,administrative note evaluation
+ ap , diagnostic study radiology note
+ bill ,office
+ coder ,interdisciplinary
+ day ,ambulatory
+ devel ,developmental
+ ed ,emergency department
+ edu ,education
+ er ,emergency department
+ fee ,administrative note
+ general ch,pediatric
+ gi ,gastroenterology
+ hpi ,initial evaluation note
+ hx , history note
+ lpn ,nurse
+ med ,medicine
+ meds ,medicine
+ moi ,hospital
+ ob ,obstetrics and gynecology
+ ob gyn,obstetrics and gynecology
+ ob ultrasound , evaluation radiology note report
+ ob/gyn,obstetrics and gynecology
+ oncology breast ,gynecologic
+ outpt ,outpatient
+ pa , diagnostic study radiology note
+ pediatric neuropsychology ,neurology w special qualifications in child neuro
+ peds ,pediatrics
+ phys ,physical
+ prelim ,note
+ req ,office
+ rn ,nurse
+ ros , evaluation note
+ spine ,spinal cord
+ surg ,surgery
+ tech ,technician
+ uh ,hospital
+ wch ,hospital
+ weight ,obesity medicine
+ work ,worker
+avs,summary
+snapshot,note
+telephone,phone
+or surgeon,operative note
+preprocedure,procedure
+postprocedure,procedure
+orthopaedics,orthopaedic surgery
+office visit,outpatient
+pharmacy,pharmacology
+pharmacist,pharmacology
+mychart,telehealth
+evaluation, evaluation note
+chiropractor,chiropractic
+weekly review,note
+consult,note
+h&p,history and physical

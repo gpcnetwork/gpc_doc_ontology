@@ -1,0 +1,31 @@
+{
+    "LOGGER_NAME": "doc_ontology",
+    "LOGGER_FOLDER": null,
+    "INPUT_FOLDER": null,
+    "OUTPUT_FOLDER": null,
+    "USE_INCLUSIONS": true,
+    "USE_EXCLUSIONS": false,
+    "USE_SYNONYMS": true,
+    "CPUS": -1,
+    "INPUT_FILE": "MCW_metadata_coalesced_input.csv",
+    "LOINC_SOURCE": "DocumentOntology_original.csv",
+    "LOINC_NAMES": "ComponentHierarchyBySystem.csv",
+    "SYNONYMS_FILE": "synonyms_MCW.csv",
+    "APPENDED_FILENAME": "MAPPINGS_no_role_service",
+    "COUNT_COLUMN": "counts",
+    "EXLUDED_COLUMNS": [
+        "counts"
+    ],
+    "INCLUDED_COLUMNS": [
+        "subjectmatterdomain",
+        "setting",
+        "doctype"
+    ],
+    "HASH_COLUMNS": [
+        "role",
+        "subjectmatterdomain",
+        "service",
+        "setting",
+        "doctype"
+    ]
+}
